@@ -1,0 +1,163 @@
+body,html{
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    height: 50px;
+    display:flex;
+    background-color: #F9F9F9;
+    font-size: large;
+}
+
+.links{
+    display: flex;
+    justify-items: right;
+    margin-left: auto;
+    padding: 15px 5px;
+    list-style: none;
+    font-size: larger;
+    font-family: 'Special Elite', cursive;
+    color: #000;
+}
+
+
+li{
+    padding: 0 4px;
+}
+
+h3{
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color:#65C18C;
+}
+footer a:hover{
+    color: azure;
+}
+
+.name{
+    display: flex;
+    text-align: left;
+    justify-items: left;
+    padding: 16px 5px;
+}
+
+.dp{
+    display: flex;
+    padding: 15px 5px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.headline{
+    display: block;
+    padding: 60px 5px;
+    font-family: 'Acme', sans-serif;
+    font-size: large;
+}
+
+.header1{
+    display: flex;
+    height: auto;
+    width: auto;
+    background-color: #F9F9F9;
+}
+
+.bio{
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif;
+    background-color: #F9F9F9;
+}
+
+
+.header2{
+    background-color: #F4E06D ;
+    margin:0;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.skill{
+    padding: 20px 10px;
+    font-family: 'Neucha', cursive;
+    background-color: #F4E06D;
+    display: flex;
+    justify-content: center;
+}
+
+.dsa{
+    display: flex;
+    padding: 0 10px;
+}
+
+.web{
+    display: block;
+    padding: 0px 20px;
+}
+
+.wDev{
+    display: block;
+    list-style: none;
+    padding: 10px 0;
+}
+
+.header3{
+    text-align: center;
+}
+
+.projects{
+    padding: 20px 10px;
+    font-family: 'Neucha', cursive;
+    background-color: #F4E06D;
+}
+
+.tictac{
+    padding: 10px 0;
+    text-align: center;
+}
+
+.ticimg{
+    height: 200px;
+    width: 200px;
+}
+
+footer{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    font-family: 'Concert One', cursive;
+    padding: 20px 0;
+    color: aqua;
+    background-color: #B4FE98;
+}
+
+.msgbox{
+    margin-top: 80px;
+    border-top:solid 2px  #65C18C;
+    border-left:solid 2px  #65C18C;
+    border-right:solid 2px  #65C18C;
+    border-bottom:solid 2px  #65C18C;
+    border-radius: 25px;
+    height: 300px;
+    width: 400px;
+    margin-left: 600px;
+}
+
+.items{
+    padding: 20px 10px;
+    list-style: none;
+}
+
+
+
+
+
+
