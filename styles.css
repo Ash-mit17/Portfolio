@@ -156,6 +156,14 @@ footer{
     list-style: none;
 }
 
+@media only screen and (max-width:600px){
+    .msgbox{
+        margin-left: 100px;
+    }
+    .myname{
+        font-size: small;
+    }
+}
 
 
 
